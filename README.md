@@ -17,8 +17,8 @@ Built-in data serialization support:
 - TimeSpan
 - Guid
 - Typed enums (byte, sbyte, short, ushort, int, uint, long, ulong)
-- Arrays of one or more dimensions
-- IEnumerables (IList, IDictionary, List<T>)
+- Arrays of one dimension
+- IEnumerables (List<T>, IList, IDictionary)
 - Any serializble object
 
 TODO:
